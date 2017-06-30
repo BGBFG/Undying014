@@ -1,0 +1,247 @@
+Gaming website
+
+Home
+|Games| |About| |Looking to Play| |Events| |Newsfeed| |Live Games| |Contact Us| 
+
+Games
+|Dota 2| |Overwatch| |Pokemon TCG| |Super Smash Bros. Wii U| |Home|
+
+Dota 2
+|About| |Looking to Play| |Top Players| |Events| |Newsfeed|
+
+Dota 2 About
+|Publicatoin Information| |Description| |blog.dota2.com| |www.dotabuff.com| |http://wiki.teamliquid.net/dota2/Main_Page|
+
+Dota 2 Looking to Play
+|Create Game| |Join Game|
+
+Dota 2 Looking to Play Create Game
+|Game/Lobby Description|
+
+Dota 2 Looking to Play Create Game Game/Lobby Description
+|Exchange Steam IDs|
+
+Dota 2 Looking to Play Join Game
+|Availble Games| |Search|
+
+Dota 2 Looking to Play Join Game Search
+|Filters|
+
+Dota 2 Top Players
+|Top Players in Your Area| |Search| |Online Now|
+
+Dota 2 Top Players Top Players in Your Area
+|Profile|
+
+Dota 2 Top Players Online Now
+|Live Stream|
+
+Dota 2 Top Players Search
+|Filters|
+
+Dota 2 Events
+|International Events| |Local Events| |Live Events|
+
+Dota 2 Events International Events
+|TI7| |Dota Major Series| |Summit 7|
+
+Dota 2 Events International Events TI7
+|External Link| |Newsfeed|
+
+Dota 2 Events Dota Major Series
+|External Link| |Newsfeed|
+
+Dota 2 Events Summit 7
+|External Link| |Newsfeed|
+
+Dota 2 Events Live Events
+|Live Stream|
+
+Dota 2 Discussion
+|Gameplay| |Players| |Events| 
+
+Overwatch
+|About| |Looking to Play| |Top Players| |Events| |Newsfeed|
+
+Overwatch About
+|Publicatoin Information| |Description| |External Link|
+
+Overwatch Looking to Play
+|Create Game| |Join Game|
+
+Overwatch Looking to Play Create Game
+|Game/Lobby Description|
+
+Overwatch Looking to Play Create Game Game/Lobby Description
+|Exchange Blizzzard IDs|
+
+Overwatch Looking to Play Join Game
+|Availble Games| |Search|
+
+Overwatch Looking to Play Join Game Search
+|Filters|
+
+Overwatch Top Players
+|Top Players in Your Area| |Search| |Online Now|
+
+Overwatch Top Players Top Players in Your Area
+|Profile|
+
+Overwatch Top Players Online Now
+|Live Stream|
+
+Overwatch Top Players Search
+|Filters|
+
+Overwatch Events
+|International Events| |Local Events| |Live Events|
+
+Overwatch Events International Events
+|Event1| |Event2| |Event3|
+
+Overwatch Events International Events Event1
+|External Link| |Newsfeed|
+
+Overwatch Events Event2
+|External Link| |Newsfeed|
+
+Overwatch Events Event3
+|External Link| |Newsfeed|
+
+Overwatch Events Live Events
+|Live Stream|
+
+Overwatch Discussion
+|Gameplay| |Players| |Events| 
+
+Pokemon TCG
+|About| |Looking to Play| |Top Players| |Events| |Discussion|
+
+Pokemon TCG About
+|Publicatoin Information| |Description| |External Link|
+
+Pokemon TCG Looking to Play
+|Create Game| |Join Game|
+
+Pokemon TCG Looking to Play Create Game
+|Game/Lobby Description|
+
+Pokemon TCG Looking to Play Create Game Game/Lobby Description
+|Exchange Blizzzard IDs|
+
+Pokemon TCG Looking to Play Join Game
+|Availble Games| |Search|
+
+Pokemon TCG Looking to Play Join Game Search
+|Filters|
+
+Pokemon TCG Top Players
+|Top Players in Your Area| |Search| |Online Now|
+
+Pokemon TCG Top Players Top Players in Your Area
+|Profile|
+
+Pokemon TCG Top Players Online Now
+|Live Stream|
+
+Pokemon TCG Top Players Search
+|Filters|
+
+Pokemon TCG Events
+|International Events| |Local Events| |Live Events|
+
+Pokemon TCG Events International Events
+|Event1| |Event2| |Event3|
+
+Pokemon TCG Events International Events Event1
+|External Link| |Newsfeed|
+
+Pokemon TCG Events Event2
+|External Link| |Newsfeed|
+
+Pokemon TCG Events Event3
+|External Link| |Newsfeed|
+
+Pokemon TCG Events Live Events
+|Live Stream|
+
+Pokemon TCG Discussion
+|Gameplay| |Players| |Events| 
+
+Super Smash Bros. Wii U
+|About| |Looking to Play| |Top Players| |Events| |Newsfeed|
+
+Super Smash Bros. Wii U About
+|Publicatoin Information| |Description| |External Link|
+
+Super Smash Bros. Wii U Looking to Play
+|Create Game| |Join Game|
+
+Super Smash Bros. Wii U Looking to Play Create Game
+|Game/Lobby Description|
+
+Super Smash Bros. Wii U Looking to Play Create Game Game/Lobby Description
+|Exchange Blizzzard IDs|
+
+Super Smash Bros. Wii U Looking to Play Join Game
+|Availble Games| |Search|
+
+Super Smash Bros. Wii U Looking to Play Join Game Search
+|Filters|
+
+Super Smash Bros. Wii U Top Players
+|Top Players in Your Area| |Search| |Online Now|
+
+Super Smash Bros. Wii U Top Players Top Players in Your Area
+|Profile|
+
+Super Smash Bros. Wii U Top Players Online Now
+|Live Stream|
+
+Super Smash Bros. Wii U Top Players Search
+|Filters|
+
+Super Smash Bros. Wii U Events
+|International Events| |Local Events| |Live Events|
+
+Super Smash Bros. Wii U Events International Events
+|Event1| |Event2| |Event3|
+
+Super Smash Bros. Wii U Events International Events Event1
+|External Link| |Newsfeed|
+
+Super Smash Bros. Wii U Events Event2
+|External Link| |Newsfeed|
+
+Super Smash Bros. Wii U Events Event3
+|External Link| |Newsfeed|
+
+Super Smash Bros. Wii U Events Live Events
+|Live Stream|
+
+Super Smash Bros. Wii U Discussion
+|Gameplay| |Players| |Events| 
+
+About
+|Introduction| |Social Media| |Staff|
+
+About Social Media
+|Facebook| |Twitter| |Steam|
+
+About Staff
+|Profiles|
+
+Looking to Play 
+|Games| |Create Game| |Join Game|
+
+Events
+|Games| |International Events| |Local Events| |Live Events|
+
+Newsfeed
+|Top Stories| |Games|
+
+Live Games
+|Games| |Players|
+
+Contact Us
+|Email| |Facebook| |Twitter|
